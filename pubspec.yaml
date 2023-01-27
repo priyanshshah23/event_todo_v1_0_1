@@ -1,0 +1,35 @@
+name: event_todo
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  intl: ^0.17.0
+  firebase_auth: ^1.0.3
+  google_sign_in: ^5.0.1
+  cloud_firestore:
+  flutter_contacts:
+  provider:
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Freehand
+      fonts: 
+        - asset: assets/fonts/FreehandRegular.ttf
+          weight: 400
+    - family: Flamenco
+      fonts: 
+        - asset: assets/fonts/FlamencoRegular.ttf
+          weight: 400
+        - asset: assets/fonts/FlamencoLight.ttf
+          weight: 300

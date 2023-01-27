@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490652614621",
+    "project_id": "event-todo-1e6a7",
+    "storage_bucket": "event-todo-1e6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490652614621:android:e8dea665bb1d129af0c034",
+        "android_client_info": {
+          "package_name": "com.priyanshsapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490652614621-l91i6gftfqiakr3ikfu9at1ggfajr3dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyanshsapplication.app",
+            "certificate_hash": "c2e45bfb49246c87bb5301e86b933a8ae623ba4c"
+          }
+        },
+        {
+          "client_id": "490652614621-tokj3q2he35e0lfr1ssr8qp8dr6cu69b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruJLRrJ-VMwK2zN5TFHBRQSmfQNU5-0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490652614621-tokj3q2he35e0lfr1ssr8qp8dr6cu69b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
